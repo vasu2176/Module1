@@ -9,7 +9,22 @@ To write a Python program to read a string from the user and then print it.
 3. Print the value stored in the variable.
 
 ## 🧾 Program
+~~~
+5
+3
+(5+3j)
+5.0
+3.0
+~~~
 
 ## Output
-
+~~~
+5
+3
+(5+3j)
+5.0
+3.0
+~~~
 ## Result
+
+This program is verified.
